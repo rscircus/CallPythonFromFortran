@@ -5,7 +5,7 @@ And return values to Fortran without call-backs.
 ## Don't forget:
 
 * To link the Python libraries
-* Include Python.h when compiling the C++ part
+* Include Python.h
 
 when compiling.
 
